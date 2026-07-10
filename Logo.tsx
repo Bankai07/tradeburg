@@ -1,0 +1,1 @@
+export default function Logo(){return <a href="/" style={{textDecoration:"none",color:"#10392F",fontSize:"36px",fontWeight:700,fontFamily:"Cormorant Garamond, serif"}}>TradeBurg</a>;}

@@ -1,0 +1,1 @@
+export default function NavLinks(){return <nav>Company · Products · How We Trade · Quality · Insights · Contact</nav>;}
