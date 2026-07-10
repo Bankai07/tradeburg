@@ -1,1 +1,0 @@
-export default function Hero(){return <section className="hero"><h1>Connecting Products.<br/>Creating Possibilities.</h1></section>}
